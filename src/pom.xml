@@ -83,7 +83,7 @@
         <jaxb-impl-version>2.1.2</jaxb-impl-version>
 
         <log4j-version>1.2.16</log4j-version>
-        <slf4japi-version>1.7.2</slf4japi-version>
+        <slf4japi-version>1.7.30</slf4japi-version>
         <dom4j-version>1.6.1</dom4j-version>
 
         <maven-assembly-plugin-version>2.2-beta-5</maven-assembly-plugin-version>
