@@ -43,7 +43,7 @@
         <geostore-version>1.4.2-SNAPSHOT</geostore-version>
         <main-prefix>geostore</main-prefix>
 
-        <cxf-version>2.3.2</cxf-version>
+        <cxf-version>2.6.0</cxf-version>
         <activemq-version>5.3.0.4-fuse</activemq-version>
 
         <jersey-version>2.5.1</jersey-version>
@@ -51,7 +51,7 @@
         spring-security-core 3.0.4 requires spring-core 3.x, otherwise we'd normally use 2.5.6, which
         is what the rest of the app uses
         -->
-        <spring-version>3.0.5.RELEASE</spring-version>
+        <spring-version>3.2.9.RELEASE</spring-version>
 
         <!-- 2.5.6.SEC01 is the version used by smix-->
         <!-- 2.5.5       is the version used by memberService-->
